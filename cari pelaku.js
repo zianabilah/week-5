@@ -3,8 +3,8 @@
 // Code
 function cariPelaku(str) {
 
-    return str.match(/abc/m)counter++;
-    console.log(str)
+    return str.match(/abc/g).length;
+    c
   // you can only write your code here!
 }
 
